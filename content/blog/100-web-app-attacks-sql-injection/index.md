@@ -1,5 +1,5 @@
 ---
-title: 100 web app attacks: sql injection
+title: 100 web app attacks - sql injection
 date: "2020-08-09T21:02:03.284Z"
 description: Instruction how to detect sql injection vulnerability and execute it
 ---
